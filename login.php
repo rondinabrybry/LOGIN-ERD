@@ -6,9 +6,9 @@
 <body>
     <h2>Login</h2>
     <form action="login_process.php" method="post">
-        <label for="username">Username:</label>
+        <label for="username">Usernames:</label>
         <input type="text" name="username" required><br><br>
-        <label for="password">Password:</label>
+        <label for="password">Passwords:</label>
         <input type="password" name="password" required><br><br>
         <input type="submit" value="Login">
     </form>
